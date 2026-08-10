@@ -11,3 +11,4 @@
 # Masala Idly
 * idly batter added
 * light oil added
+* masala added
