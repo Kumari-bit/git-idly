@@ -7,3 +7,6 @@
 # podi idly
 * idly batter added
 * podi added
+
+# Masala Idly
+* idly batter added
