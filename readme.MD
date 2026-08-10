@@ -4,5 +4,6 @@
 * idly batter
 * light oil added
 
-# karam idly
+# podi idly
 * idly batter added
+* podi added
